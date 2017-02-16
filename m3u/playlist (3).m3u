@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:0,*** Nederland ***
+http://185.2.83.24:8000
+#EXTINF:-1,NL: Ziggo Sport1 Racing
+http://185.2.83.24:8000/live/kevin/kevin/7.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://185.2.83.24:8000/live/kevin/kevin/841.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://185.2.83.24:8000/live/kevin/kevin/9.ts
+#EXTINF:-1,NL: Ziggo Sport1 Extra 1
+http://185.2.83.24:8000/live/kevin/kevin/46.ts
+#EXTINF:-1,NL: Ziggo Sport1 Extra 2
+http://185.2.83.24:8000/live/kevin/kevin/47.ts
+#EXTINF:-1,NL: Film 1 Sundance
+http://185.2.83.24:8000/live/kevin/kevin/845.ts
+#EXTINF:-1,NL: Film 1 Premiere
+http://185.2.83.24:8000/live/kevin/kevin/50.ts
+#EXTINF:-1,NL: Film 1 Comedy
+http://185.2.83.24:8000/live/kevin/kevin/847.ts
+#EXTINF:-1,NL: Film 1 Action
+http://185.2.83.24:8000/live/kevin/kevin/13.ts
+#EXTINF:-1,NL: HBO 1
+http://s1.finoip.com:20000/live/mark/mark/2748.ts
+#EXTINF:-1,NL: HBO 2
+http://s1.finoip.com:20000/live/mark/mark/2749.ts
+#EXTINF:-1,NL: HBO 3
+http://s1.finoip.com:20000/live/mark/mark/2750.ts
+#EXTINF:-1,NL: Fox Sport 1
+http://185.2.83.24:8000/live/kevin/kevin/809.ts
+#EXTINF:-1,NL: Fox Sport 2
+http://185.2.83.24:8000/live/kevin/kevin/810.ts
+#EXTINF:-1,NL: Fox Sport 3
+http://185.2.83.24:8000/live/kevin/kevin/811.ts
+#EXTINF:-1,NL: Fox Sport 4
+http://185.2.83.24:8000/live/kevin/kevin/812.ts
+#EXTINF:-1,NL: Fox Sport 5
+http://185.2.83.24:8000/live/kevin/kevin/813.ts
+#EXTINF:-1,NL: Fox Sport 6
+http://185.2.83.24:8000/live/kevin/kevin/814.ts
+#EXTINF:-1,NL: Comedy Central
+http://185.2.83.24:8000/live/kevin/kevin/980.ts
+#EXTINF:-1,NL: Crime & Investigation
+http://185.2.83.24:8000/live/jansen/jansen/880.ts
+#EXTINF:-1,NL: Investigation Discovery
+http://185.2.83.24:8000/live/kevin/kevin/884.ts
+#EXTINF:-1,NL: Motors TV
+http://185.2.83.24:8000/live/kevin/kevin/982.ts
+#EXTINF:-1,NL: RTL Crime
+http://185.2.83.24:8000/live/jansen/jansen/12.ts
+#EXTINF:-1,NL: RTL Lounge
+http://185.2.83.24:8000/live/kevin/kevin/1270.ts
+#EXTINF:-1,NL: RTL Telekids
+http://www.iptvgafsa.tn:8000/live/hamza/hamza/11494.ts
+#EXTINF:0, *** Amerika ***
+http://185.2.83.24:8000
+#EXTINF:-1,USA: A&E HD
+http://37.187.251.142:8000/live/james/james/133.ts
+#EXTINF:-1,USA: ABC HD
+http://37.187.251.142:8000/live/james/james/2243.ts
+#EXTINF:-1,USA: AFN Movie
+http://192.99.45.71:9900/live/admin/admin/26163.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33023.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33024.ts
+#EXTINF:-1,USA: AFN Spectrum
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33022.ts
+#EXTINF:-1,USA: AFN Sports 1
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33021.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33020.ts
+#EXTINF:-1,USA: AMC HD
+http://37.187.251.142:8000/live/james/james/262.ts
+#EXTINF:-1,USA: Animal Planet HD
+http://37.187.251.142:8000/live/james/james/2230.ts
+#EXTINF:-1,USA: Bravo HD
+http://37.187.251.142:8000/live/james/james/1134.ts
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://149.202.203.121:7022/live/mama/mama/6598.ts
+#EXTINF:-1,USA: Cinemax ActionMax East
+http://149.202.203.121:7022/live/mama/mama/6597.ts
+#EXTINF:-1,USA: Cinemax East
+http://149.202.203.121:7022/live/mama/mama/6596.ts
+#EXTINF:-1,USA: Cartoon Network
+http://149.202.203.121:7022/live/mama/mama/6577.ts
+#EXTINF:-1,USA: CBS HD
+http://37.187.251.142:8000/live/james/james/129.ts
+#EXTINF:-1,USA: CNBC
+http://37.187.251.142:8000/live/james/james/2232.ts
+#EXTINF:-1,USA: CNN HD
+http://109.236.80.19:8000/live/true/ozzy/4767.ts
+#EXTINF:-1,USA: Comedy Central
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33038.ts
+#EXTINF:-1,USA: CW HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33067.ts
+#EXTINF:-1,USA: Destination America
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/2604.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://37.187.251.142:8000/live/james/james/2585.ts
+#EXTINF:-1,USA: Discovery Family HD
+http://149.202.92.133:8000/live/brett/brett/2473.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/33039.ts
+#EXTINF:-1,USA: Disney Channel
+http://37.187.251.142:8000/live/james/james/402.ts
+#EXTINF:-1,USA: ESPN HD
+http://109.236.80.19:8000/live/true/ozzy/4773.ts
+#EXTINF:-1,USA: ESPN HD 2
+http://149.202.92.133:8000/live/brett/brett/2482.ts
+#EXTINF:-1,USA: FX HD
+http://109.236.80.19:8000/live/true/ozzy/4779.ts
+#EXTINF:-1,USA: H2
+http://149.202.203.121:7022/live/mama/mama/6589.ts
+#EXTINF:-1,USA: Hallmark
+http://149.202.203.121:7022/live/mama/mama/6588.ts
+#EXTINF:-1,USA: HBO
+http://37.187.251.142:8000/live/james/james/467.ts
+#EXTINF:-1,USA: HBO Comedy
+http://37.187.251.142:8000/live/james/james/468.ts
+#EXTINF:-1,USA: HBO East
+http://149.202.92.133:8000/live/brett/brett/2496.ts
+#EXTINF:-1,USA: HBO Zone
+http://149.202.203.121:7022/live/mama/mama/6565.ts
+#EXTINF:-1,USA: HGTV HD
+http://37.187.251.142:8000/live/james/james/1163.ts
+#EXTINF:-1,USA: HIFI
+http://149.202.92.133:8000/live/brett/brett/2503.ts
+#EXTINF:-1,USA: History Channel
+http://37.187.251.142:8000/live/james/james/741.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://149.202.203.121:7022/live/mama/mama/6526.ts
+#EXTINF:-1,USA: Life Time
+http://37.187.251.142:8000/live/james/james/2239.ts
+#EXTINF:-1,USA: National Geographic HD
+http://37.187.251.142:8000/live/james/james/120.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://37.187.251.142:8000/live/james/james/2.tss
+#EXTINF:-1,USA: Nickelodeon HD
+http://37.187.251.142:8000/live/james/james/286.ts
+#EXTINF:-1,USA: OWN HD
+http://37.187.251.142:8000/live/james/james/5307.ts
+#EXTINF:-1,USA: PBS
+http://37.187.251.142:8000/live/james/james/2228.ts
+#EXTINF:-1,USA: Showtime
+http://37.187.251.142:8000/live/james/james/2165.ts
+#EXTINF:-1,USA: Showtime Extreme
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/2676.ts
+#EXTINF:-1,USA: Showtime Showcase
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/2674.ts
+#EXTINF:-1,USA: Showtime West
+http://149.202.92.133:8000/live/brett/brett/2529.ts
+#EXTINF:-1,USA: Spike HD
+http://37.187.251.142:8000/live/james/james/1171.ts
+#EXTINF:-1,USA: Starz Cinema
+http://192.99.45.71:9900/live/admin/admin/24919.ts
+#EXTINF:-1,USA: Starz East
+http://192.99.45.71:9900/live/admin/admin/24920.ts
+#EXTINF:-1,USA: Starz Edge
+http://192.99.45.71:9900/live/admin/admin/24921.ts
+#EXTINF:-1,USA: Starz Encore
+http://51.254.197.61:4545/live/2/2/1789.ts
+#EXTINF:-1,USA: SYFY HD
+http://37.187.251.142:8000/live/james/james/2237.ts
+#EXTINF:-1,USA: TBS HD
+http://37.187.251.142:8000/live/james/james/137.ts
+#EXTINF:-1,USA: TLC HD
+http://37.187.251.142:8000/live/james/james/138.ts
+#EXTINF:-1,USA: TNT
+http://37.187.251.142:8000/live/james/james/2238.ts
+#EXTINF:-1,USA: Tru TV
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/546.ts
+#EXTINF:-1,USA: BET
+http://192.99.45.71:9900/live/admin/admin/24922.ts
+#EXTINF:-1,USA: USA Network HD
+http://37.187.251.142:8000/live/james/james/136.ts
+#EXTINF:-1,USA: UTV IE
+hhttp://37.187.251.142:8000/live/james/james/4550.ts
+#EXTINF:-1,USA: VH1
+http://37.187.251.142:8000/live/james/james/4997.ts
+#EXTINF:-1,USA: VH1 Classic
+http://37.187.251.142:8000/live/james/james/4998.ts
+#EXTINF:-1,USA: Viceland
+http://149.202.92.133:8000/live/brett/brett/2546.ts
+#EXTINF:-1,USA: WE TV
+http://149.202.92.133:8000/live/brett/brett/2547.ts
+#EXTINF:0, *** Engeland ***
+http://185.2.83.24:8000
+#EXTINF:-1,UK: History 2
+http://ultime-iptv.net:8000/live/riadh1098/riadh1098/248.ts
+#EXTINF:-1,UK: History +1
+http://37.187.251.142:8000/live/james/james/543.ts
+#EXTINF:-1,UK: VH1
+http://37.187.251.142:8000/live/james/james/4997.ts
+#EXTINF:-1,UK: TLC
+http://192.99.45.71:9900/live/admin/admin/25690.ts
+#EXTINF:-1,UK: Sky Sport News
+http://37.187.251.142:8000/live/james/james/97.ts
+#EXTINF:-1,UK: Sky Living
+http://37.187.251.142:8000/live/james/james/80.ts
+#EXTINF:-1,UK: Sky Arts
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/44.ts
+#EXTINF:-1,UK: Setanta Sports
+http://37.187.251.142:8000/live/james/james/393.ts
+#EXTINF:-1,UK: Nickelodeon
+http://37.187.251.142:8000/live/james/james/286.ts
+#EXTINF:-1,UK: MTV Hits
+http://37.187.251.142:8000/live/james/james/1128.ts
+#EXTINF:-1,UK: MTV Base
+http://37.187.251.142:8000/live/james/james/3949.ts
+#EXTINF:-1,UK: MTV Dance
+http://37.187.251.142:8000/live/james/james/3951.ts
+#EXTINF:-1,UK: MTV Music
+http://37.187.251.142:8000/live/james/james/1127.ts
+#EXTINF:-1,UKI: ITV 1
+http://46.105.115.37:8000/live/iptv1790/179065287/143.ts
+#EXTINF:-1,UK: ITV 2
+http://46.105.115.37:8000/live/iptv1790/179065287/142.ts
+#EXTINF:-1,UK: ITV 3
+http://46.105.115.37:8000/live/iptv1790/179065287/141.ts
+#EXTINF:-1,UK: ITV 4
+http://46.105.115.37:8000/live/iptv1790/179065287/140.ts
+#EXTINF:-1,UK: ITV Be
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/3277.ts
+#EXTINF:-1,UK: More 4
+http://46.105.115.37:8000/live/iptv1790/179065287/139.ts
+#EXTINF:-1,UK: E4
+http://37.187.251.142:8000/live/james/james/55.ts
+#EXTINF:-1,UK: Five
+http://149.202.201.60:8000/live/Manus/Manus/4475.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://46.105.115.37:8000/live/iptv1790/179065287/99.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/148.ts
+#EXTINF:-1,UK: FOX
+http://37.187.251.142:8000/live/james/james/66.ts
+#EXTINF:-1,UK: Sony Movie Channel
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/3097.ts
+#EXTINF:-1,UK: Film 4
+http://37.187.251.142:8000/live/james/james/346.ts
+#EXTINF:-1,UK: Discovery Science
+http://37.187.251.142:8000/live/james/james/276.ts
+#EXTINF:-1,UK: Channel 5
+http://46.105.115.37:8000/live/iptv1790/179065287/766.ts
+#EXTINF:-1,UK: Channel 4
+http://37.187.251.142:8000/live/james/james/54.ts
+#EXTINF:-1,UK: 5Star
+http://lsi.ddns.me:8000/live/qPB9Eoyf6B/yU5Ex3RjwU/3150.ts
+#EXTINF:-1,UK: CBC Reality
+http://ip.cs4ip.com:8000/live/alpha123/alpha123/2638.ts
+#EXTINF:-1,UK: Cartoon Network
+http://37.187.251.142:8000/live/james/james/234.ts
+#EXTINF:-1,UK: BT Sport 1
+http://37.187.251.142:8000/live/james/james/62.ts
+#EXTINF:-1,UK: BT Sport 2
+http://37.187.251.142:8000/live/james/james/287.ts
+#EXTINF:-1,UK: BT Sport 3
+http://ipro.newtvhd.com:8789/live/manu/manu/1049.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://ipro.newtvhd.com:8789/live/manu/manu/1058.ts
+#EXTINF:-1,UK: Boomrang
+http://37.187.251.142:8000/live/james/james/240.ts
+#EXTINF:-1,UK: BBC News
+http://37.187.251.142:8000/live/james/james/5306.ts
+#EXTINF:-1,UK: Alibi
+http://37.187.251.142:8000/live/james/james/523.ts
+#EXTINF:-1,UK: 5 USA
+http://149.202.201.60:8000/live/damian/damian/4489.ts
+#EXTINF:-1,UK: Disney XD
+http://46.105.115.37:8000/live/iptv1790/179065287/771.ts
+#EXTINF:-1,UK: Disney Channel
+http://37.187.251.142:8000/live/james/james/402.ts
+#EXTINF:-1,UK: Animal Planet
+http://37.187.251.142:8000/live/james/james/232.ts
+#EXTINF:-1,UK: BBC 1
+http://37.187.251.142:8000/live/james/james/51.ts
+#EXTINF:-1,UK: BBC 2
+http://37.187.251.142:8000/live/james/james/52.ts
+#EXTINF:-1,UK: BBC 3/CBBC
+http://37.187.251.142:8000/live/james/james/4999.ts
+#EXTINF:-1,UK: BBC 4/CBEEBIES
+http://37.187.251.142:8000/live/james/james/5150.ts
+#EXTINF:-1,UK: SKY Movies Disney
+http://37.187.251.142:8000/live/james/james/268.ts
+#EXTINF:-1,USA: Sky Movies Sci-Fi & Horror
+http://37.187.251.142:8000/live/james/james/273.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://37.187.251.142:8000/live/james/james/236.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://37.187.251.142:8000/live/james/james/43.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://37.187.251.142:8000/live/james/james/44.ts
+#EXTINF:-1,UK: Sky Movies Super Heroes
+http://37.187.251.142:8000/live/james/james/285.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://37.187.251.142:8000/live/james/james/41.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+http://37.187.251.142:8000/live/james/james/237.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://37.187.251.142:8000/live/james/james/40.ts
+#EXTINF:-1,UK: Discovery
+http://37.187.251.142:8000/live/james/james/82.ts
+#EXTINF:-1,UK: Discovery Channel
+http://37.187.251.142:8000/live/james/james/2234.ts
+#EXTINF:-1,UK: Discovery History
+http://46.105.115.37:8000/live/iptv1790/179065287/100.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://37.187.251.142:8000/live/james/james/63.ts
+#EXTINF:-1,UK: Discovery Shed
+http://37.187.251.142:8000/live/james/james/5045.ts
+#EXTINF:-1,UK: National Geographic
+http://46.105.115.37:8000/live/iptv1790/179065287/138.ts
+#EXTINF:-1,UK: National Geographic wild
+http://192.99.45.71:9900/live/admin/admin/25666.ts
+#EXTINF:-1,UK: SyFy
+http://37.187.251.142:8000/live/james/james/96.ts
+#EXTINF:0, *** Belgie ***
+http://185.2.83.24:8000
+#EXTINF:-1,BE: Een
+http://149.202.91.205:8000/live/user1/user1/2427.ts
+#EXTINF:-1,BE: 2Be
+http://149.202.91.205:8000/live/user1/user1/2426.ts
+#EXTINF:-1,BE: Canvas
+http://149.202.91.205:8000/live/user1/user1/2389.ts
+#EXTINF:-1,BE: Vier
+http://149.202.91.205:8000/live/user1/user1/2429.ts
+#EXTINF:-1,BE: Vijf
+http://149.202.91.205:8000/live/user1/user1/2430.ts
+#EXTINF:-1,BE: ATV Antwerpen
+http://149.202.91.205:8000/live/user1/user1/2446.ts
+#EXTINF:-1,BE: Vtm
+http://149.202.91.205:8000/live/user1/user1/2432.ts
+#EXTINF:-1,BE: Vtm Kazoom
+http://163.172.42.177:25461/live/19/19/3237.ts
+#EXTINF:-1,BE: Vitaya
+http://149.202.91.205:8000/live/user1/user1/2431.ts
+#EXTINF:-1,BE: Ketnet
+http://149.202.91.205:8000/live/user1/user1/1346.ts
+#EXTINF:-1,BE: Acht
+http://163.172.42.177:25461/live/19/19/3245.ts
+#EXTINF:0, *** Sport Engels ***
+http://185.2.83.24:8000
+#EXTINF:-1,UK: Sky Sports News HD
+http://149.202.201.60:8000/live/Manus/Manus/920.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://149.202.201.60:8000/live/Manus/Manus/921.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://149.202.201.60:8000/live/Manus/Manus/915.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://149.202.201.60:8000/live/Manus/Manus/916.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://149.202.201.60:8000/live/Manus/Manus/917.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://149.202.201.60:8000/live/Manus/Manus/918.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://149.202.201.60:8000/live/Manus/Manus/919.ts
+#EXTINF:-1,UK: Premier Sports
+http://149.202.201.60:8000/live/Manus/Manus/914.ts
+#EXTINF:-1,UK: BT Sport Europe
+http://149.202.201.60:8000/live/Manus/Manus/913.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://149.202.201.60:8000/live/Manus/Manus/922.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://149.202.201.60:8000/live/Manus/Manus/923.ts
+#EXTINF:-1,UK: Eurosport 1
+http://46.105.115.37:8000/live/iptv1790/179065287/91.ts
+#EXTINF:-1,UK: Eurosport 2
+http://46.105.115.37:8000/live/iptv1790/179065287/90.ts
+#EXTINF:0, *** Porno ***
+http://185.2.83.24:8000
+#EXTINF:-1,XXX: Dusk DeLuxe NL
+http://185.2.83.24:8000/live/kevin/kevin/938.ts
+#EXTINF:-1,XXX: Meiden van Holland Hard
+http://149.202.201.60:8000/live/Manus/Manus/5080.ts
+#EXTINF:-1,XXX: Penthouse 1 HD NL
+http://149.202.201.60:8000/live/Manus/Manus/5159.ts
+#EXTINF:-1,XXX: Penthouse 2 HD NL
+http://149.202.201.60:8000/live/Manus/Manus/5160.ts
+#EXTINF:-1,XXX: SEXTREME
+http://149.202.72.15:8000/live/Costa/Costa/690.ts
+#EXTINF:-1,XXX: PENTHOUSE
+http://149.202.72.15:8000/live/Costa/Costa/510.ts
+#EXTINF:-1,XXX: VENUS
+http://149.202.72.15:8000/live/Costa/Costa/181.ts
+#EXTINF:-1,XXX: PLAYBOY
+http://149.202.72.15:8000/live/Costa/Costa/304.ts
+#EXTINF:-1,XXX: Hustler NL
+http://185.2.83.24:8000/live/kevin/kevin/1096.ts
+#EXTINF:-1,XXX: Brazzers TV Europe NL
+http://185.2.83.24:8000/live/kevin/kevin/830.ts
+#EXTINF:-1,XXX HOT XXX
+http://149.202.72.15:8000/live/Costa/Costa/244.ts
+#EXTINF:-1,xXx: Hot Club 1
+http://149.202.72.15:8000/live/Costa/Costa/1328.ts
+#EXTINF:-1,xXx: Hot Club 2
+http://149.202.72.15:8000/live/Costa/Costa/1327.ts
+#EXTINF:-1,xXx: Hot Club 3
+http://149.202.72.15:8000/live/Costa/Costa/1326.ts
+#EXTINF:-1,xXx: Hot Club 4
+http://149.202.72.15:8000/live/Costa/Costa/1325.ts
+#EXTINF:-1,xXx: Hot Club 5
+http://149.202.72.15:8000/live/Costa/Costa/1324.ts
+#EXTINF:-1,XXX: Hot Club 6
+http://149.202.72.15:8000/live/Costa/Costa/1323.ts
+#EXTINF:-1,XXX: Hot Club 7
+http://149.202.72.15:8000/live/Costa/Costa/1322.ts
+#EXTINF:-1,XXX: Hot Club 8
+http://149.202.72.15:8000/live/Costa/Costa/1321.ts
+#EXTINF:0, *** Radio ***
+http://185.2.83.24:8000
+#EXTINF:-1,Radio: Veronica Top 100 Aller Tijden
+http://185.2.83.24:8000/live/jansen/jansen/543.ts
+#EXTINF:-1,Radio: Veronica
+http://185.2.83.24:8000/live/kevin/kevin/499.ts
+#EXTINF:-1,Radio: Skyradio Hits
+http://185.2.83.24:8000/live/kevin/kevin/537.ts
+#EXTINF:-1,Radio: SkyRadio
+http://185.2.83.24:8000/live/kevin/kevin/489.ts
+#EXTINF:-1,Radio: RadioNL
+http://185.2.83.24:8000/live/kevin/kevin/546.ts
+#EXTINF:-1,Radio: Q-Music NONSTOP
+http://185.2.83.24:8000/live/kevin/kevin/502.ts
+#EXTINF:-1,Radio: Q-Music NL
+http://185.2.83.24:8000/live/kevin/kevin/494.ts
+#EXTINF:-1,Radio: Q-Music Foute Uur NONSTOP
+http://185.2.83.24:8000/live/kevin/kevin/501.ts
+#EXTINF:-1,Radio: Q-Music Belgie
+http://185.2.83.24:8000/live/kevin/kevin/531.ts
+#EXTINF:-1,Radio: Puur NL
+http://185.2.83.24:8000/live/kevin/kevin/504.ts
+#EXTINF:-1,Radio: NPO Radio 2
+http://185.2.83.24:8000/live/kevin/kevin/491.ts
+#EXTINF:-1,Radio: NPO Radio 1
+http://185.2.83.24:8000/live/kevin/kevin/490.ts
+#EXTINF:-1,Radio: NPO 3FM
+http://185.2.83.24:8000/live/kevin/kevin/492.ts
+#EXTINF:-1,Radio: Decibel
+http://185.2.83.24:8000/live/kevin/kevin/542.ts
+#EXTINF:-1,Radio: Dance.FM
+http://185.2.83.24:8000/live/kevin/kevin/500.ts
+#EXTINF:-1,Radio: BBC Radio 2
+http://185.2.83.24:8000/live/kevin/kevin/640.ts
+#EXTINF:-1,Radio: BBC Radio 1
+http://185.2.83.24:8000/live/kevin/kevin/639.ts
+#EXTINF:-1,Radio: Arrow Classic Rock
+http://185.2.83.24:8000/live/kevin/kevin/545.ts
+#EXTINF:-1,Radio: 538 Party
+http://185.2.83.24:8000/live/kevin/kevin/533.ts
+#EXTINF:-1,Radio: 538 Hitzone
+http://185.2.83.24:8000/live/kevin/kevin/534.ts
+#EXTINF:-1,Radio: 538
+http://185.2.83.24:8000/live/kevin/kevin/498.ts
+#EXTINF:-1,Radio: 100% NL
+http://185.2.83.24:8000/live/kevin/kevin/495.ts
