@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,*** Nederland ***
-http://185.2.83.24:8000
 #EXTINF:-1,NL: Ziggo Sport1 Racing
 http://185.2.83.24:8000/live/kevin/kevin/7.ts
 #EXTINF:-1,NL: Ziggo Sport Select HD
@@ -51,8 +49,6 @@ http://185.2.83.24:8000/live/jansen/jansen/12.ts
 http://185.2.83.24:8000/live/kevin/kevin/1270.ts
 #EXTINF:-1,NL: RTL Telekids
 http://www.iptvgafsa.tn:8000/live/hamza/hamza/11494.ts
-#EXTINF:0, *** Amerika ***
-http://185.2.83.24:8000
 #EXTINF:-1,USA: A&E HD
 http://37.187.251.142:8000/live/james/james/133.ts
 #EXTINF:-1,USA: ABC HD
@@ -183,8 +179,6 @@ http://37.187.251.142:8000/live/james/james/4998.ts
 http://149.202.92.133:8000/live/brett/brett/2546.ts
 #EXTINF:-1,USA: WE TV
 http://149.202.92.133:8000/live/brett/brett/2547.ts
-#EXTINF:0, *** Engeland ***
-http://185.2.83.24:8000
 #EXTINF:-1,UK: History 2
 http://ultime-iptv.net:8000/live/riadh1098/riadh1098/248.ts
 #EXTINF:-1,UK: History +1
@@ -313,8 +307,6 @@ http://46.105.115.37:8000/live/iptv1790/179065287/138.ts
 http://192.99.45.71:9900/live/admin/admin/25666.ts
 #EXTINF:-1,UK: SyFy
 http://37.187.251.142:8000/live/james/james/96.ts
-#EXTINF:0, *** Belgie ***
-http://185.2.83.24:8000
 #EXTINF:-1,BE: Een
 http://149.202.91.205:8000/live/user1/user1/2427.ts
 #EXTINF:-1,BE: 2Be
@@ -337,8 +329,6 @@ http://149.202.91.205:8000/live/user1/user1/2431.ts
 http://149.202.91.205:8000/live/user1/user1/1346.ts
 #EXTINF:-1,BE: Acht
 http://163.172.42.177:25461/live/19/19/3245.ts
-#EXTINF:0, *** Sport Engels ***
-http://185.2.83.24:8000
 #EXTINF:-1,UK: Sky Sports News HD
 http://149.202.201.60:8000/live/Manus/Manus/920.ts
 #EXTINF:-1,UK: Sky Sports F1 HD
@@ -365,8 +355,6 @@ http://149.202.201.60:8000/live/Manus/Manus/923.ts
 http://46.105.115.37:8000/live/iptv1790/179065287/91.ts
 #EXTINF:-1,UK: Eurosport 2
 http://46.105.115.37:8000/live/iptv1790/179065287/90.ts
-#EXTINF:0, *** Porno ***
-http://185.2.83.24:8000
 #EXTINF:-1,XXX: Dusk DeLuxe NL
 http://185.2.83.24:8000/live/kevin/kevin/938.ts
 #EXTINF:-1,XXX: Meiden van Holland Hard
@@ -405,8 +393,6 @@ http://149.202.72.15:8000/live/Costa/Costa/1323.ts
 http://149.202.72.15:8000/live/Costa/Costa/1322.ts
 #EXTINF:-1,XXX: Hot Club 8
 http://149.202.72.15:8000/live/Costa/Costa/1321.ts
-#EXTINF:0, *** Radio ***
-http://185.2.83.24:8000
 #EXTINF:-1,Radio: Veronica Top 100 Aller Tijden
 http://185.2.83.24:8000/live/jansen/jansen/543.ts
 #EXTINF:-1,Radio: Veronica
