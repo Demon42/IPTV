@@ -33,6 +33,20 @@ http://topiptv.net:5890/live/taha/taha/1250.ts
 http://topiptv.net:5890/live/taha/taha/1251.ts
 #EXTINF:-1,NED|FOX Sports 6 HD
 http://topiptv.net:5890/live/taha/taha/1252.ts
+#EXTINF:-1,NL: Sport1
+http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1154.ts
+#EXTINF:-1,NL: Sport1 Select
+http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/479.ts
+#EXTINF:-1,NL: Sport1 Racing
+http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/480.ts
+#EXTINF:-1,NL: Sport1 Voetbal
+http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/481.ts
+#EXTINF:-1,NL: Sport1 Golf
+http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/482.ts
+#EXTINF:-1,NL: Sport 1 Extra1
+http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1152.ts
+#EXTINF:-1,NL: Sport 1 Extra2
+http://pro.satlover.com:58080/live/carlospeladoboris/ImhLAR08Wb/1153.ts
 #EXTINF:-1,NED|HBO 1
 http://topiptv.net:5890/live/taha/taha/774.ts
 #EXTINF:-1,NED|HBO 2
